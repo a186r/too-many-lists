@@ -1,0 +1,28 @@
+{
+  "name": "too-many-lists",
+  "version": "1.0.0",
+  "description": "a linked list in rust",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a186r/too-many-lists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a186r/too-many-lists/issues"
+  },
+  "homepage": "https://github.com/a186r/too-many-lists#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
